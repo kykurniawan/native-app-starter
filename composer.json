@@ -1,0 +1,19 @@
+{
+    "name": "rizkykurniawan/native-php-starter",
+    "description": "Native PHP Starter",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kykurniawan",
+            "email": "contact.rizkykurniawan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
